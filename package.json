@@ -1,0 +1,19 @@
+{
+  "name": "ha-cli-calculator",
+  "version": "3.0.0",
+  "description": "A cli-calculator with typescript nodejs and inquirer",
+  "main": "calculator.js",
+  "type": "module",
+  "bin":  "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Adil",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
